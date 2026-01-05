@@ -120,6 +120,18 @@ This dashboard enables mining executives to:
 
 ---
 
+## 🐍 Data Generation
+
+The synthetic dataset was created using Python in Google Colab. The notebook includes:
+- Industry-accurate parameter modeling (TRIFR, OEE, cost structures)
+- Seasonal variance implementation (cyclone season impacts)
+- Realistic operational patterns (maintenance schedules, equipment failures)
+- 12,000+ records across 6 related tables
+
+**Notebook:** [`code/mining_data_generation.ipynb`](code/mining_data_generation.ipynb)
+
+---
+
 ## Data Sources & Validation
 
 Data based on 2025 Western Australian mining industry benchmarks:
