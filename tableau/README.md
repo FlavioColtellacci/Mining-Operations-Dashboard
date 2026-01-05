@@ -1,6 +1,6 @@
 # Tableau Workbook
    
-   **File:** Mining_Operations_Dashboard_FINAL.twbx
+   **File:** Mining_Operations_Dashboard.twb
    
    Packaged Tableau workbook containing:
    - Interactive dashboard
