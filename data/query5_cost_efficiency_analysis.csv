@@ -1,0 +1,5 @@
+site_name,commodity,labor_cost_millions,equipment_cost_millions,fuel_cost_millions,maintenance_cost_millions,total_cost_millions,labor_pct,equipment_pct,fuel_pct,avg_cost_per_unit,target_cost_per_unit,cost_variance_pct,total_tonnes_millions,actual_cost_per_tonne,cost_performance
+Lithium Creek Mine,Lithium,166.97,116.88,75.14,33.39,417.42,40,28,18,72323.4,640,11200.5,0,638.71,Over Budget
+Copper Hills Mine,Copper,30.17,21.12,13.58,6.03,75.43,40,28,18,78.76,1.85,4157.4,0,4078.31,Over Budget
+Iron Ridge Mine,Iron Ore,507.85,355.5,228.53,101.57,1269.63,40,28,18,27.05,27,0.2,46,27.05,Acceptable
+Golden Valley Mine,Gold,388.38,271.87,174.77,77.68,970.96,40,28,18,2355.21,2500,-5.8,12,80.25,On Target

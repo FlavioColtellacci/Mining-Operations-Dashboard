@@ -1,0 +1,49 @@
+month,site_name,commodity,operating_days,total_tonnes_thousands,avg_daily_tonnes,avg_plan_adherence_pct,avg_head_grade,avg_recovery_rate_pct,total_weather_delay_hours,total_downtime_hours,avg_operational_hours_per_day,pct_days_below_target
+2025-01,Copper Hills Mine,Copper,31,1,52,93.7,2.77,87.2,0,0,24,29
+2025-01,Golden Valley Mine,Gold,31,1054,34007,95.4,1.21,90.2,0,0,24,32.3
+2025-01,Iron Ridge Mine,Iron Ore,31,4045,130513,95.3,61.77,97.2,0,0,24,32.3
+2025-01,Lithium Creek Mine,Lithium,31,56,1822,94.9,1.31,69.1,12,12,23.6,19.4
+2025-02,Copper Hills Mine,Copper,28,1,52,93.8,2.81,86.5,0,0,24,32.1
+2025-02,Golden Valley Mine,Gold,28,971,34680,97.3,1.2,89.8,0,0,24,0
+2025-02,Iron Ridge Mine,Iron Ore,28,3754,134090,97.7,61.9,97.2,0,0,24,21.4
+2025-02,Lithium Creek Mine,Lithium,28,51,1826,95,1.3,69.2,0,0,24,25
+2025-03,Copper Hills Mine,Copper,31,1,50,91.2,2.79,86.9,0,33.6,22.9,25.8
+2025-03,Golden Valley Mine,Gold,31,995,32128,90.3,1.2,90.2,0,33.6,22.9,29
+2025-03,Iron Ridge Mine,Iron Ore,31,3915,126297,92.2,62.26,96.9,0,33.6,22.9,22.6
+2025-03,Lithium Creek Mine,Lithium,31,53,1726,89.9,1.29,69.3,7.2,40.8,22.7,38.7
+2025-04,Copper Hills Mine,Copper,30,1,53,96.6,2.8,86.9,0,0,24,23.3
+2025-04,Golden Valley Mine,Gold,30,973,32455,91.2,1.2,89.9,0,0,24,33.3
+2025-04,Iron Ridge Mine,Iron Ore,30,3737,124572,90.9,62.22,96.6,0,0,24,50
+2025-04,Lithium Creek Mine,Lithium,30,55,1854,96.5,1.29,69.1,0,0,24,26.7
+2025-05,Copper Hills Mine,Copper,31,1,51,91.9,2.8,86.8,0,0,24,45.2
+2025-05,Golden Valley Mine,Gold,31,1045,33725,94.6,1.2,90,0,0,24,32.3
+2025-05,Iron Ridge Mine,Iron Ore,31,4019,129663,94.6,62.43,96.7,0,0,24,32.3
+2025-05,Lithium Creek Mine,Lithium,31,56,1827,95.1,1.32,69.3,0,0,24,25.8
+2025-06,Copper Hills Mine,Copper,30,1,48,87.1,2.8,87.5,0,33.6,22.9,40
+2025-06,Golden Valley Mine,Gold,30,955,31838,89.4,1.2,90.2,0,33.6,22.9,36.7
+2025-06,Iron Ridge Mine,Iron Ore,30,3725,124193,90.6,61.96,97.1,0,33.6,22.9,36.7
+2025-06,Lithium Creek Mine,Lithium,30,50,1677,87.3,1.3,69.3,0,33.6,22.9,36.7
+2025-07,Copper Hills Mine,Copper,31,1,51,92.2,2.8,87,0,0,24,45.2
+2025-07,Golden Valley Mine,Gold,31,1022,32971,92.6,1.21,90.1,0,0,24,51.6
+2025-07,Iron Ridge Mine,Iron Ore,31,4096,132130,96.3,62.12,97.3,0,0,24,19.4
+2025-07,Lithium Creek Mine,Lithium,31,57,1860,96.9,1.3,69.4,0,0,24,19.4
+2025-08,Copper Hills Mine,Copper,31,1,52,94.9,2.79,87.6,0,0,24,29
+2025-08,Golden Valley Mine,Gold,31,1054,34006,95.3,1.19,90.4,0,0,24,25.8
+2025-08,Iron Ridge Mine,Iron Ore,31,4084,131750,96.1,61.8,96.9,0,0,24,32.3
+2025-08,Lithium Creek Mine,Lithium,31,56,1823,94.9,1.3,69.4,0,0,24,25.8
+2025-09,Copper Hills Mine,Copper,30,1,49,88.5,2.8,86.7,0,33.6,22.9,30
+2025-09,Golden Valley Mine,Gold,30,963,32110,90.2,1.21,90.6,0,33.6,22.9,33.3
+2025-09,Iron Ridge Mine,Iron Ore,30,3767,125598,91.7,61.34,97.2,0,33.6,22.9,23.3
+2025-09,Lithium Creek Mine,Lithium,30,51,1702,88.7,1.3,69.4,0,33.6,22.9,36.7
+2025-10,Copper Hills Mine,Copper,31,1,50,91,2.8,86.8,0,0,24,38.7
+2025-10,Golden Valley Mine,Gold,31,1052,33953,95.3,1.2,90.2,0,0,24,25.8
+2025-10,Iron Ridge Mine,Iron Ore,31,3975,128256,93.6,61.94,97,0,0,24,29
+2025-10,Lithium Creek Mine,Lithium,31,56,1828,95.2,1.3,69.3,0,0,24,22.6
+2025-11,Copper Hills Mine,Copper,30,1,51,93.5,2.81,87.3,0,0,24,33.3
+2025-11,Golden Valley Mine,Gold,30,1031,34378,96.4,1.19,90,0,0,24,20
+2025-11,Iron Ridge Mine,Iron Ore,30,3895,129835,94.7,61.66,96.7,0,0,24,26.7
+2025-11,Lithium Creek Mine,Lithium,30,54,1815,94.5,1.29,69.5,0,0,24,30
+2025-12,Copper Hills Mine,Copper,31,1,50,90.6,2.79,86.7,0,33.6,22.9,29
+2025-12,Golden Valley Mine,Gold,31,980,31624,88.8,1.21,89.9,0,33.6,22.9,48.4
+2025-12,Iron Ridge Mine,Iron Ore,31,3918,126392,92.1,61.85,96.8,0,33.6,22.9,22.6
+2025-12,Lithium Creek Mine,Lithium,31,53,1727,90,1.31,69.4,0,33.6,22.9,35.5

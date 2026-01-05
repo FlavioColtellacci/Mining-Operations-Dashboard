@@ -1,0 +1,5 @@
+site_name,commodity,workforce_count,total_incidents,lti_count,mti_count,fai_count,psi_count,near_miss_count,total_days_lost,avg_days_lost_per_lti,human_error_count,equipment_failure_count,procedural_gap_count,trifr,ltifr,safety_performance_category
+Copper Hills Mine,Copper,280,90,2,8,20,15,40,26,0.3,24,14,16,8.15,1.63,Needs Improvement
+Lithium Creek Mine,Lithium,450,90,2,8,20,15,40,28,0.3,21,12,16,5.07,1.01,Industry Average
+Iron Ridge Mine,Iron Ore,850,90,2,8,20,15,40,37,0.4,19,18,20,2.69,0.54,Tier 1 (World Class)
+Golden Valley Mine,Gold,1200,90,2,8,20,15,40,20,0.2,14,16,24,1.9,0.38,Tier 1 (World Class)
